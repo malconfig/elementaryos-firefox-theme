@@ -26,4 +26,4 @@ Or follow the steps yourself:
 Either
 * Make it respect gtk theme button placement by default  
 or
-* Customize it to work flawlessly with windows or mac placed minimise|maximise|close buttons
+* Customize it to work flawlessly with windows or mac placed (minimise|maximise|close) buttons
