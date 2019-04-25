@@ -21,3 +21,9 @@ Or follow the steps yourself:
 4. Paste the userChrome.css in this folder
 5. Disable Title bar in the customization panel in Firefox.
 5. In the customization panel in Firefox you can move the new tab button to the left if you wish and use the dark mode option as well.
+
+## To-Do
+Either
+* Make it respect gtk theme button placement by default
+or
+* Customize it to work flawlessly with windows or mac placed minimise|maximise|close buttons
